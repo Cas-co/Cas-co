@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Cas-co
-- 👀 I’m interested in: data analytics, qualitative analysis, sociology
-- 🌱 I’m currently learning: the basics
-- 💞️ I’m looking to collaborate on: TBD
+- 👀 I’m interested in: data analytics, data visualization, qualitative analysis, sociology
+- 🌱 I’m currently learning: SQL
+- 🤝 I’m looking to collaborate on: TBD
 - 📫 How to reach me: carrier snail
-- 😄 Pronouns: He/They?She
-- ⚡ Fun fact:
+- 😄 Pronouns: He/They/She
+- ⚡ Fun fact: Carrier snails aren't real, but if they were they'd be very impractical. My email is **nicolodeon@icloud.com**, or you can find me at **https://www.linkedin.com/in/nicocastilho/**
 
 <!---
 Cas-co/Cas-co is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
