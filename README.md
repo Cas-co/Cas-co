@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cas-co
 - 👀 I’m interested in: data analytics, data visualization, qualitative analysis, sociology
-- 🌱 I’m currently learning: SQL
+- 🌱 I’m currently learning: R
 - 🤝 I’m looking to collaborate on: TBD
 - 📫 How to reach me: carrier snail
 - 😄 Pronouns: He/They/She
